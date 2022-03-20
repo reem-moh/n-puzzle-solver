@@ -49,6 +49,6 @@ We tried to reduce the number of loops and the complexity as much as possible to
 a short execution time. We choose the Manhattan heuristic because that heuristic gives the <br>
 right solution with less time.<br>
 
-Here is a <a href="">pdf</a> file describing the project in detail.
+Here is a <a href="/n-puzzle solver.pdf">pdf</a> file describing the project in detail.
 
 Reem Algabani, Hannan alasker
